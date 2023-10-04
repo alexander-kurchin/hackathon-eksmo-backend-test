@@ -25,10 +25,10 @@ git clone https://github.com/alexander-kurchin/hackathon-eksmo-backend-test
 ```
 cd hackathon-eksmo-backend-test
 python -m venv venv && . venv/scripts/activate
-pip install -r requirements.tx
+pip install -r requirements.txt
 ```
 
-Создаём файл _.env_ и помещаем туда _API-ключ_ по аналогии с _.envexample_.
+Создаём файл _.env_ и помещаем туда свой _API-ключ_ по аналогии с _.envexample_.
 
 ## Запуск
 
